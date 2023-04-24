@@ -1,0 +1,18 @@
+{
+  "Intrépide": ["Torchic", "Treecko"],
+  "Serviable": ["Charmander", "Bulbasaur"],
+  "Courageuse": ["Pikachu", "Charmander"],
+  "Enjouée": ["Totodile", "Eevee"],
+  "Espiègle": ["Piplup", "Chimchar"],
+  "Naïf": ["Chimchar", "Skitty"],
+  "Timide": ["Cyndaquil", "Turtwig"],
+  "Pressée": ["Shinx", "Pikachu"],
+  "Effrontée": ["Riolu", "Totodile"],
+  "Calme": ["Chikorita", "Cyndaquil"],
+  "Décontractée": ["Phanpy", "Vulpix"],
+  "Solitaire": ["Bulbasaur", "Mudkip"],
+  "Lunatique": ["Squirtle", "Piplup"],
+  "Silencieuse": ["Treecko", "Chikorita"],
+  "Spontanée": ["Mudkip", "Torchic"],
+  "Audacieuse": ["Turtwig", "Squirtle"]
+}

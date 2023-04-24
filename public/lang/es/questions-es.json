@@ -1,0 +1,679 @@
+[
+  {
+    "id": 0,
+    "title": "¿En que día cae nuestro aniversario?",
+    "responses": [
+      {
+        "response": "El 16",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "El 69",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      },
+      {
+        "response": "El 28",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "¿Que había al lado del sitio donde nos vimos por primera vez?",
+    "responses": [
+      {
+        "response": "Unos contenedores de basura",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Un faro",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 1
+      },
+      {
+        "response": "Fue en el baño jejejeje",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "¿Quien es mi cantante preferido?",
+    "responses": [
+      {
+        "response": "WOS",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 0
+      },
+      {
+        "response": "Tiago",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Duki",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 2
+      },
+      {
+        "response": "Manolo Escobar",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "¿Cual es mi equipo de futbol preferido?",
+    "responses": [
+      {
+        "response": "Atletico de Madrid",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Atleti",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 1
+      },
+      {
+        "response": "el equipo de los colchoneros",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mi empresa es...",
+    "responses": [
+      {
+        "response": "PrimeIT",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "SIA",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "¿Quien de estos idolos es mas importante para mi?",
+    "responses": [
+      {
+        "response": "Luis Aragonés",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 0
+      },
+      {
+        "response": "Fernando Torres",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Simeone",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "¿Cuando nos conocimos llevaba una camiseta azul?",
+    "responses": [
+      {
+        "response": "Si",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "No",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "¿Cual es mi color preferido?",
+    "responses": [
+      {
+        "response": "Azul",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Negro",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Rojo",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "¿Cual es mi serie favorita?",
+    "responses": [
+      {
+        "response": "The witcher",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "The punisher",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 1
+      },
+      {
+        "response": "Vikings",
+        "scores": [
+          { "nature": "acierto", "points": 1 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Nuestro primer beso fue...",
+    "responses": [
+      {
+        "response": "En el parking de tu casa",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "En los baños del boombastic",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "En el juan carlos",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Hablamos por primera vez por...",
+    "responses": [
+      {
+        "response": "Tinder",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "WhatsApp",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Facebook",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      },
+      {
+        "response": "Twitter",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "El barrio en el que crecí se llama...",
+    "responses": [
+      {
+        "response": "La Alhondiga",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 0
+      },
+      {
+        "response": "Sector 3",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Sector 2",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "¿De pequeño estuve apuntado a natacion?",
+    "responses": [
+      {
+        "response": "Si",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "No",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "El barrio en el que vivo se llama...",
+    "responses": [
+      {
+        "response": "La Alhondiga",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 0
+      },
+      {
+        "response": "Sector 3",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Sector 2",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Lo que mas me gusta de ti es...",
+    "responses": [
+      {
+        "response": "Tus ojos",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Tu sonrisa",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Tu culo",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "¿De pequeño estuve apuntado a tenis?",
+    "responses": [
+      {
+        "response": "Si",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "No",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "¿Formé parte del equipo de futsal en el instituto?",
+    "responses": [
+      {
+        "response": "Si",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "No",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "¿Cuantas parejas tuve antes de ti?",
+    "responses": [
+      {
+        "response": "2",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "1",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      },
+      {
+        "response": "0",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Mi deporte preferido es...",
+    "responses": [
+      {
+        "response": "Tenis",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Futbol",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "¿Dana es la perra mas bonita del universo?", 
+    "responses": [
+      {
+        "response": "Si, obvio",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "No (Esto solo lo elegiría una persona con pesimo gusto)",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "¿Te quiero?",
+    "responses": [
+      {
+        "response": "Obvio que si y mucho",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Pues claro que si y mucho",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Mi saga de videojuegos preferida es...",
+    "responses": [
+      {
+        "response": "Assasins Creed",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 0
+      },
+      {
+        "response": "Zelda",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      },
+      {
+        "response": "Pokemon",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "El primer juego que me regalaron con la game boy advance sp fue...",
+    "responses": [
+      {
+        "response": "Pokemon",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 0
+      },
+      {
+        "response": "Zelda",
+        "scores": [{ "nature": "Mansa", "points": 10 }],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "¿Nuestro primer viaje juntos fue a Segovia?",
+    "responses": [
+      {
+        "response": "Sí",
+        "scores": [
+          { "nature": "acierto", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "No",
+        "scores": [{ "nature": "fallo", "points": 10 }],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "El sitio donde he veraneado con mis abuelos es...",
+    "responses": [
+      {
+        "response": "La manga",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 0
+      },
+      {
+        "response": "Guardamar del segura",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 1
+      },
+      {
+        "response": "Torrevieja",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      },
+      {
+        "response": "Monaco",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Algún día me gustaría aprender a tocar...",
+    "responses": [
+      {
+        "response": "El piano",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "El saxofon",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Los cojones",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Te quiero",
+    "responses": [
+      {
+        "response": "Te quiero",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 0
+      },
+      {
+        "response": "Te quiero",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 1
+      },
+      {
+        "response": "Te quiero",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Nuestra primera cena como novios fue en...",
+    "responses": [
+      {
+        "response": "Burguer King",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 0
+      },
+      {
+        "response": "Taco bell",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 1
+      },
+      {
+        "response": "Oven Mozarella",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "La primera pelicula que vimos juntos en el cine fue...",
+    "responses": [
+      {
+        "response": "DC Liga de Supermascotas",
+        "scores": [
+          { "nature": "fallo", "points": 1 }
+        ],
+        "id": 0
+      },
+      {
+        "response": "Jurassic World: Dominion",
+        "scores": [
+          { "nature": "acierto", "points": 10 }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "¿Veo mi futuro contigo?",
+    "responses": [
+      {
+        "response": "Sí",
+        "scores": [{ "nature": "acierto", "points": 10 }],
+        "id": 0
+      },
+      {
+        "response": "No",
+        "scores": [{ "nature": "fallo", "points": 1 }],
+        "id": 1
+      }
+    ]
+  }
+]
