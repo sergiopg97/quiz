@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "start": "run vite",
+    "start": "node /src/main.js",
     "build": "vite dev",
     "preview": "vite preview"
   },
